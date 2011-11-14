@@ -1,0 +1,4 @@
+#!/bin/sh
+
+git remote add vendor https://github.com/LearnBoost/stylus.git
+
